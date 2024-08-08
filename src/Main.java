@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class Main{
 
+
 	public static void printOpening() {
 		System.out.println(
 				"Welcome to the test management system. Please choose of the following (or type 0 for exit) :\n");
